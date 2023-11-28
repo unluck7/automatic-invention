@@ -1,0 +1,48 @@
+C:\Users\andur\source\repos\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\andur\source\repos\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\andur\source\repos\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\App.g.cs
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\andur\source\repos\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\App.g.cs
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\andur\OneDrive\Рабочий стол\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\user\Downloads\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\user\Downloads\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\user\Downloads\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\WpfApp4\obj\Debug\App.g.cs
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\user\Downloads\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\user\Downloads\WpfApp4\obj\Debug\WpfApp4.pdb
